@@ -39,7 +39,7 @@ Planned enhancements may include:
 ---
 
 ## 📂 Technologies & Tools (Planned)
-- **Swift / SwiftUI** or UIKit (iOS Development)
+- **SwiftUI** (iOS Development)
 - **AVFoundation** for video capture
 - **CoreLocation / MapKit** for real-time location and routing
 - **Push Notifications** via APNs
